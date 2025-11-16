@@ -1,0 +1,21 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+   <stop offset="0%" stop-color="#0A84FF"/>
+   <stop offset="100%" stop-color="#5EBBFF"/>
+  </linearGradient>
+ </defs>
+ <!-- 中心放大 12% -->
+ <g>
+  <title>Layer 1</title>
+  <rect x="0" y="0" width="1024" height="1024" rx="220" fill="url(#bg)" id="svg_1"/>
+  <g fill="#FFFFFF" id="svg_2" stroke="null">
+   <rect x="7.35969" y="420.8225" width="334.61491" height="202.35503" rx="44" id="svg_3" stroke="null"/>
+   <polygon points="341.9746367931366,420.822509765625 453.5128753185272,522.0000610351562 341.9746367931366,623.1776123046875 " id="svg_4" stroke="null"/>
+   <rect x="684.0254" y="420.8225" width="334.61491" height="202.35503" rx="44" id="svg_5" stroke="null"/>
+   <polygon points="684.0253264904022,420.822509765625 572.4871184825897,522.0000610351562 684.0253264904022,623.1776123046875 " id="svg_6" stroke="null"/>
+   <rect x="475.82056" y="163.27973" width="74.35887" height="717.44058" rx="20" id="svg_7" stroke="null"/>
+   <circle cx="513" cy="227.66542" r="40.89738" id="svg_8" stroke="null"/>
+  </g>
+ </g>
+</svg>
